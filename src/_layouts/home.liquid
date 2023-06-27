@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ siteTitle }}: Home</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="generator" content="{{ eleventyinfo.generatorStr}}" />
+    <meta name="author" content="John M. Wargo">
+    {% if description %}
+      <meta name="description" content="{{ description }}" />
+    {% endif %}
+    {% if categories.length > 0 %}
+      <meta name="keywords" content="{% getKeywords categories %}">
+    {% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | url }}">
+  </head>
+  <body>
+    <h1>My First Heading</h1>
+    <p>My first paragraph.</p>
+  </body>
+</html>

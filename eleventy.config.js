@@ -10,9 +10,19 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addPlugin(pluginDate);
 	eleventyConfig.addPlugin(pluginRss);
 
+	eleventyConfig.addShortcode("getKeywords", function (categories) {
+		let returnString = "";
+		for (let category in categories) {
+			returnString += categories[category] + ", ";
+		}
+		// Remove the last comma
+		return returnString.slice(0, -2);
+	});
+	
 	eleventyConfig.addPassthroughCopy({ 'src/favicon/*': '/' });
 	[
 		"src/_data/*",
+		"src/assets/",
 		"src/images/",		
 	].forEach((path) => {
 		eleventyConfig.addPassthroughCopy(path);
