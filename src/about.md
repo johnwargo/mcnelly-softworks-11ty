@@ -1,5 +1,6 @@
 ---
 title: About
+layout: generic
 eleventyNavigation:
   key: About
   order: 6
