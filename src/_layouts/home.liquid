@@ -12,13 +12,13 @@
     {% if categories.length > 0 %}
       <meta name="keywords" content="{% getKeywords categories %}">
     {% endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | url }}">
+    <link rel="stylesheet" href="/assets/css/tailwind.css">
   </head>
   <body>
-
+    <nav></nav>
     <main class="max-w-3xl mx-auto py-12 min-h-screen">
+
       {{ content }}
     </main>
-
   </body>
 </html>
