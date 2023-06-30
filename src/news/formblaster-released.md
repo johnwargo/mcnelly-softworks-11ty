@@ -1,8 +1,6 @@
 ---
-title: "FormBlaster Released"
-date: "2005-05-02"
-categories: 
-  - "news"
+title: FormBlaster Released
+date: 2005-05-02
 ---
 
 McNelly SoftWorks, LLC is proud to announce the availability of our first commercial software product - FormBlaster.

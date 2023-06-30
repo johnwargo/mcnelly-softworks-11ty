@@ -1,8 +1,6 @@
 ---
-title: "Password Generator"
-date: "2015-10-12"
-categories: 
-  - "news"
+title: Password Generator
+date: 2015-10-12
 ---
 
 Over the years, McNelly SoftWorks, LLC has created many software utilities to automate processes or procedures for our clients.We thought it might be useful if we made some of these utilities available to interested users. So, today we published the first utility, a password generator app that we found to be useful whenever we're setting up a new database user.  You'll find the app's download information in the site's [Utilities](http://www.mcnellysoftworks.com/utilities/) section.

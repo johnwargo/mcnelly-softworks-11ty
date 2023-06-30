@@ -1,9 +1,7 @@
 ---
-title: "PhoneGap Essentials Published"
-date: "2012-06-11"
-categories: 
-  - "news"
-coverImage: "phonegap_essentials_cover_320.png"
+title: PhoneGap Essentials Published
+date: 2012-06-11
+coverImage: images/cover-pge.png
 ---
 
 McNelly SoftWorks founder John M. Wargo today announced the public release of his third book: _PhoneGap Essentials_.

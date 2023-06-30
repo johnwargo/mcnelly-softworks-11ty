@@ -1,9 +1,7 @@
 ---
-title: "BlackBerry Development Fundamentals Published"
-date: "2009-11-15"
-categories: 
-  - "news"
-coverImage: "Wargo_COVER-320.jpg"
+title: BlackBerry Development Fundamentals Published
+date: 2009-11-15
+coverImage: images/cover-bbdf.jpg
 ---
 
 McNelly SoftWorks founder John M. Wargo today announced the public release of his second book, _BlackBerry Development Fundamentals_.

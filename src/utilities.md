@@ -1,6 +1,9 @@
 ---
-title: "Utilities"
-date: "2015-10-12"
+title: Utilities
+layout: generic
+eleventyNavigation:
+  key: Utilities
+  order: 2
 ---
 
 Over the years, McNelly SoftWorks, LLC has created many software utilities to automate processes or procedures for our clients. In this section of the site, we'll publish these utilities so others can make use of them. These utilities are provided as-is, with no warranty, guaranty or expectation that these utilities will work for any purpose.

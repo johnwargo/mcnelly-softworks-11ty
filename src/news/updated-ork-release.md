@@ -1,8 +1,6 @@
 ---
-title: "Updated ORK Release"
-date: "2007-08-20"
-categories: 
-  - "news"
+title: Updated ORK Release
+date: 2007-08-20
 ---
 
 McNelly SoftWorks, LLC is proud to announce the release of the first major update to our flagship product - Official’s Record Keeper (ORK).

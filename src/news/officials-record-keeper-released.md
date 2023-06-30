@@ -1,8 +1,6 @@
 ---
-title: "Official's Record Keeper Released"
-date: "2005-08-15"
-categories: 
-  - "news"
+title: Official's Record Keeper Released
+date: 2005-08-15
 ---
 
 McNelly SoftWorks, LLC is proud to announce the release of our flagship product - Official’s Record Keeper (ORK).

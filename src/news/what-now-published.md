@@ -1,9 +1,7 @@
 ---
-title: "'What Now? The Essential Guide for New Soccer Referees' is published"
-date: "2007-11-27"
-categories: 
-  - "news"
-coverImage: "What-Now-Cover-160.png"
+title: What Now? The Essential Guide for New Soccer Referees published
+date: 2007-11-27
+coverImage: images/cover-what-now.png
 ---
 
 McNelly SoftWorks founder John M. Wargo today announced the public release of _What Now? The Essential Guide for New Soccer Referees._
