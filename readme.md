@@ -10,6 +10,6 @@
 - [x] News Page
 - [x] Paginate News
 - [x] Google Analytics
-- [ ] favicon
+- [x] favicon
 - [ ] Netlify Publish
 - [ ] Delete on Fatcow
