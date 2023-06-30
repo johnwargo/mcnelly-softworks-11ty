@@ -1,9 +1,10 @@
 ---
 title: Products
-layout: generic
+description: Commercial software products from McNelly SoftWorks
+layout: default
 eleventyNavigation:
   key: Products
-  order: 2
+  order: 3
 ---
 
 [![ORK Logo](images/ork-300.png "ORK Logo")](http://www.mcnellysoftworks.com/products/officials-record-keeper/ "Official’s Record Keeper")

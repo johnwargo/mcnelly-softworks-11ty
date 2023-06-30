@@ -1,0 +1,46 @@
+---
+siteTitle: McNelly SoftWorks, LLC
+---
+<!DOCTYPE HTML>
+<!--
+Layered by Pixelarity
+pixelarity.com | hello@pixelarity.com
+License: pixelarity.com/license
+--><html>
+  <head>
+    <title>{{ siteTitle }}: {{ title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+  </head>
+  <body class="no-sidebar is-preload">
+    <div id="page-wrapper">
+      {% include "header.html" %}
+      <div id="main">
+        <div class="container">
+          <div class="row">
+            <div id="content" class="col-12">
+              <article>
+                {% if page.url != '/' %}
+                  <header>
+                    <h2>{{ title }}</h2>
+                    {% if description.length > 0 %}
+                      <span class="byline">{{ description }}</span>
+                    {% endif %}
+                  </header>
+                {% else %}
+                  <header>
+                    <img src="/images/msw-logo-356.png" alt="McNelly SoftWorks logo" />
+                  </header>
+                {% endif %}
+                {{ content }}
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% include "footer.html" %}
+    </div>
+    {% include "scripts.html" %}
+  </body>
+</html>

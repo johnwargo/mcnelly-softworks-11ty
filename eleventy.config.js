@@ -24,6 +24,7 @@ module.exports = eleventyConfig => {
 		"src/_data/*",
 		"src/assets/",
 		"src/images/",		
+		"src/downloads/",
 	].forEach((path) => {
 		eleventyConfig.addPassthroughCopy(path);
 	});

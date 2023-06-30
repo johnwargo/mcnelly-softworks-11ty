@@ -6,8 +6,10 @@ https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
 
 ## Tasks
 
-- [ ] Home Page
-- [ ] About Page
+- [x] Home Page
+- [x] About Page
+- [ ] Books Page
 - [ ] Products Page
 - [ ] Utilities Page
+- [ ] News Page
 - [ ] Paginate News

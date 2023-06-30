@@ -1,7 +1,6 @@
 {% assign navPages = collections.all | eleventyNavigation %}
 
-<nav>
-  <div>
+<nav id="nav">
     <ul>
       {%- for entry in navPages %}
       <li {% if entry.url==page.url %} class="current" {% endif %}>
@@ -9,5 +8,4 @@
       </li>
       {%- endfor %}
     </ul>
-  </div>
 </nav>

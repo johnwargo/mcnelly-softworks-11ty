@@ -1,9 +1,10 @@
 ---
 title: News
-layout: generic
+description: 
+layout: news
 eleventyNavigation:
   key: News
-  order: 5
+  order: 10
 ---
 
 News items in reverse chronological order.
