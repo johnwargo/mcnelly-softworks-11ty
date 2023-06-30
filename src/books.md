@@ -1,6 +1,6 @@
 ---
 title: Books
-description: 
+description: Bookspublished by McNelly SoftWorks, LLC.
 layout: default
 eleventyNavigation:
   key: Books
