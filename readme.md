@@ -13,3 +13,6 @@ https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
 - [x] Utilities Page
 - [x] News Page
 - [x] Paginate News
+- [ ] Google Analytics
+- [ ] Netlify Publish
+- [ ] Delete on Fatcow
