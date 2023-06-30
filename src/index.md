@@ -1,5 +1,6 @@
 ---
 title: Home
+description: The home of McNelly SoftWorks, LLC
 layout: home
 eleventyNavigation:
   key: Home
@@ -14,6 +15,6 @@ Use the menu options at the top of the site to learn more about us.
 
 **_Note:_**
 
-**_Effective January 1, 2016, McNelly SoftWorks has discontinued the sale of it's What Now? The Essential Guide for new Soccer Referees. See [here](http://www.mcnellysoftworks.com/discontinued-book/) for more details._**
+**_Effective January 1, 2016, McNelly SoftWorks discontinued the sale of it's What Now? The Essential Guide for new Soccer Referees. See [here](http://www.mcnellysoftworks.com/discontinued-book/) for more details._**
 
-**_Effective April 1, 2014 McNelly SoftWorks has discontinued the sales and support of our software products for sports officials: Official's Record Keeper and FormBlaster._**
+**_Effective April 1, 2014 McNelly SoftWorks discontinued the sales and support of our software products for sports officials: Official's Record Keeper and FormBlaster._**
