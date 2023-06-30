@@ -4,7 +4,9 @@ date: 2007-11-27
 coverImage: images/cover-what-now.png
 ---
 
-McNelly SoftWorks founder John M. Wargo today announced the public release of _What Now? The Essential Guide for New Soccer Referees._
+![What Now? The Essential Guide for New Soccer Referees](/images/cover-what-now.png)
+
+McNelly SoftWorks founder John M. Wargo today announced the public release of *What Now? The Essential Guide for New Soccer Referees*.
 
 'What Now? The Essential Guide for New Soccer Referees' should be provided to every entry-level Soccer Referee. It is the ultimate resource book for anyone who is interested in becoming a Soccer Referee. The newly trained Referee who doesn't know what to do next after completing the first clinic can use the practical information in this book to put his or her Referee career on track. Focusing on 'how to be' a Referee rather than 'how to' Referee, this book ignores the rules and covers everything else. Get helpful tips for locating and attending your first clinic, joining local Referee Associations, working with leagues and assignors to get games, buying the right equipment, preparing for the first game and all of the things that have to happen on Game Day and beyond. It's the checklist guide to your first season as a Referee. Written by an experienced Referee and Referee Instructor, this book covers everything about being a Referee that would otherwise have to be learned the hard way.
 

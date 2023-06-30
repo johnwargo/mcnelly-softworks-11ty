@@ -4,6 +4,8 @@ date: 2009-11-15
 coverImage: images/cover-bbdf.jpg
 ---
 
+![BlackBerry Development Fundamentals](/images/cover-bbdf.jpg)
+
 McNelly SoftWorks founder John M. Wargo today announced the public release of his second book, _BlackBerry Development Fundamentals_.
 
 The BlackBerry smartphone is today’s #1 mobile platform for the enterprise and also a huge hit with consumers. Until now, it’s been difficult for programmers to find everything they need to begin developing new applications for BlackBerry devices. BlackBerry Development Fundamentals is the solution: the first single-source guide to all aspects of development for the BlackBerry platform. This book thoroughly reviews the BlackBerry’s unique capabilities and limitations, helps you optimize your upfront design choices, and covers native rich-client applications and Web-based mobile applications for both business and consumer environments. In addition, it is an excellent study guide for the BlackBerry Certified Application Developer exam (BCX-810).

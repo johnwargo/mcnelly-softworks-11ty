@@ -6,7 +6,7 @@ coverImage: images/cover-pge.png
 
 McNelly SoftWorks founder John M. Wargo today announced the public release of his third book: _PhoneGap Essentials_.
 
-![PhoneGap Essentials Cover](images/phonegap_essentials_cover_320.png)
+![PhoneGap Essentials Cover](/images/cover-pge.png)
 
 Using PhoneGap, mobile developers can write cross-platform mobile apps using standard HTML5, JavaScript, and CSS - and then deploy those apps to every leading mobile platform with little or no recoding. The open source PhoneGap platform has attracted immense interest amongst mobile developers, but its official documentation is sparse and incomplete.
 
