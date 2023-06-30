@@ -9,6 +9,7 @@
 - [x] Utilities Page
 - [x] News Page
 - [x] Paginate News
-- [ ] Google Analytics
+- [x] Google Analytics
+- [ ] favicon
 - [ ] Netlify Publish
 - [ ] Delete on Fatcow
