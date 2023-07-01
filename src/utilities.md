@@ -15,4 +15,4 @@ Over the years, McNelly SoftWorks, LLC has created many software utilities to au
 
 We're always looking for a secure and complicated password to use for various online user IDs. Here's a simple application we created that simplifies the process by just generating passwords for you. You tell the application how many characters you want for the password and it generates a new password every time you click the Generate Password button. 
 
-[Download the app](/downloads/PasswordGenerator.exe).
+[Download the Utility](/downloads/PasswordGenerator.exe){class="button"}.
