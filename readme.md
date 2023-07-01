@@ -1,5 +1,8 @@
 # McNelly SoftWorks, LLC Static Web Site (11ty)
 
+Public web site for McNelly SoftWorks, LLC.
+Migrated to Eleventy June 30, 2023
+
 ## Tasks
 
 - [x] Home Page
