@@ -16,5 +16,5 @@ Netlify app: https://mcnelly.netlify.app/
 - [x] Paginate News
 - [x] Google Analytics
 - [x] favicon
-- [ ] Netlify Publish
+- [x] Netlify Publish
 - [ ] Delete on Fatcow
