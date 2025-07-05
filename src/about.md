@@ -9,8 +9,6 @@ eleventyNavigation:
 
 ![McNelly's](/images/mcnelly.png "McNelly's")
 
-Contact: [info@mcnellysoftworks.com](mailto:info@mcnellysoftworks.com)
-
 McNelly SoftWorks was founded in 1988 by professional software developer John M. Wargo. The company’s first work was developing utility programs for companies in Northeastern Ohio.
 
 The company’s first project was a utility program installed on every IBM compatible computer sold by a regional PC reseller called Basicomputer (no longer in business). The program displayed a customer’s support contract information on startup and provided an additional menu which helped a remote technician troubleshoot issues with the customer’s computer.
